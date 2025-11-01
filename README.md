@@ -1,12 +1,12 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou Rafael Dias Garcia! 👋
 
 <div align="center">
   
 ### Desenvolvedor e Estudante de Banco de Dados | CWI Crescer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeldiasgarcia)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaeldiasgarcia)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rafaeldiasgarcia.github.io)
 
 </div>
 
@@ -32,14 +32,14 @@ Sou estudante de **Banco de Dados** no programa **CWI Crescer**, apaixonado por 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&theme=radical&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaeldiasgarcia&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldiasgarcia&theme=radical&hide_border=true&layout=compact)
 
 </div>
 
 ## 🎯 Projetos em Destaque
 
-### 🔍 [Montergio - Investigação Criminal](https://github.com/seu-usuario/montergio)
+### 🔍 [Montergio - Investigação Criminal](https://github.com/rafaeldiasgarcia/montergio)
 Projeto de investigação criminal usando SQL para análise de dados. Realizei uma investigação completa sobre um roubo de carga, cruzando informações de depoimentos, veículos, transações comerciais e ligações telefônicas através de consultas SQL complexas.
 
 **Tecnologias:** PostgreSQL, SQL, pgAdmin
@@ -70,9 +70,9 @@ Estou sempre aberto a colaborar em projetos interessantes relacionados a banco d
 
 ## 📧 Entre em Contato
 
-- 📬 Email: [seu-email@example.com](mailto:seu-email@example.com)
-- 💼 LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-perfil)
-- 🌐 Portfolio: [seu-portfolio.com](https://seu-portfolio.com)
+- 💼 LinkedIn: [Rafael Dias Garcia](https://www.linkedin.com/in/rafaeldiasgarcia)
+- 🌐 Portfolio: [rafaeldiasgarcia.github.io](https://rafaeldiasgarcia.github.io)
+- 🐙 GitHub: [@rafaeldiasgarcia](https://github.com/rafaeldiasgarcia)
 
 ---
 
