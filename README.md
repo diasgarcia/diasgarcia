@@ -2,8 +2,7 @@
 # 👋 Olá! Eu sou Rafael Dias Garcia
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0D6EFD&center=true&vCenter=true&width=600&lines=Engenharia+de+Software+%7C+Full+Stack;Java+%2B+Angular+Developer;M%C3%BAsico+Cl%C3%A1ssico+%7C+Code+Enthusiast)
+
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-0D6EFD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafaeldiasgarcia.github.io)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeldiasgarcia/)
@@ -24,7 +23,7 @@ const rafael = {
 };
 ```
 
-Desenvolvedor apaixonado por criar soluções robustas com **Java** e **Angular**. Atualmente em capacitação intensiva na **CWI Crescer**, aplicando práticas de DevOps, Segurança e Metodologias Ágeis. Minha experiência como músico clássico me ensinou disciplina, atenção aos detalhes e trabalho em equipe - habilidades que aplico diariamente no desenvolvimento de software.
+
 
 ---
 
@@ -37,9 +36,6 @@ Desenvolvedor apaixonado por criar soluções robustas com **Java** e **Angular*
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Bancos de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -55,10 +51,6 @@ Desenvolvedor apaixonado por criar soluções robustas com **Java** e **Angular*
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 📚 Atualmente Aprendendo
-![AI](https://img.shields.io/badge/GenAI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![Security](https://img.shields.io/badge/Security-00D4AA?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -73,57 +65,6 @@ Desenvolvedor apaixonado por criar soluções robustas com **Java** e **Angular*
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafaeldiasgarcia&theme=tokyonight&hide_border=true&background=0D1117&ring=0D6EFD&fire=0D6EFD&currStreakLabel=0D6EFD)
 
 </div>
-
----
-
-## 🏆 Projetos em Destaque
-
-### 🎯 [SGE - Sistema de Gerenciamento de Eventos](https://github.com/rafaeldiasgarcia/SGE)
-Sistema completo desenvolvido para o Centro Universitário UNIFIO para gestão de eventos esportivos e acadêmicos.
-
-**Tech:** `PHP 8.2` `MySQL` `Docker` `Repository Pattern` `RBAC`
-
-**Destaques:**
-- ✅ Controle de acesso baseado em papéis (RBAC)
-- ✅ Dockerização completa para deploy
-- ✅ Validação de regras de negócio complexas
-- ✅ Interface responsiva e intuitiva
-
----
-
-### 🤖 [Classificador de Texto LLMOps](https://github.com/rafaeldiasgarcia/classificador-texto-llmops)
-Sistema de classificação de feedbacks usando fine-tuning (DistilBERT) com deploy via Docker e API FastAPI.
-
-**Tech:** `Python` `PyTorch` `FastAPI` `Docker` `DistilBERT`
-
-**Destaques:**
-- ⭐ Projeto feito inteiramente com Gemini AI para iFood GenAI
-- ✅ Fine-tuning de modelo de linguagem
-- ✅ API REST para inferência
-- ✅ Containerização para produção
-
----
-
-### 🌤️ [WeatherNow](https://github.com/rafaeldiasgarcia/WeatherNow) | [Demo](https://weather-now-lyart.vercel.app/)
-Dashboard de clima consumindo API OpenWeatherMap com tema dark/light.
-
-**Tech:** `JavaScript` `CSS3` `OpenWeatherMap API` `Vercel`
-
----
-
-### 🎸 [Técnicas de Violão Clássico](https://github.com/rafaeldiasgarcia/tecnicas-violao-classico) | [Demo](https://rafaeldiasgarcia.github.io/tecnicas-violao-classico/)
-Guia interativo open-source para a comunidade de violonistas.
-
-**Tech:** `HTML5` `CSS3` `JavaScript`
-
----
-
-## 🎓 Certificações
-
-- 🏆 **CS50: Introduction to Computer Science** - Harvard University
-- 🏆 **JavaScript Essentials** - Cisco Networking Academy
-- 🏆 **Python Advanced** - Huawei Talent Online
-- 🏆 **Advanced English (C1)** - UNINTER
 
 ---
 
@@ -142,23 +83,17 @@ Guia interativo open-source para a comunidade de violonistas.
 **🚀 CWI Software (Crescer)** - *Estagiário Level 2* | Atual  
 Capacitação intensiva em Java e Angular, práticas de DevOps, Segurança e Metodologias Ágeis.
 
-**🎵 Conservatório de Tatuí** - *Bolsista - Camerata de Violões* | 2024  
-Atuação profissional como músico, desenvolvendo disciplina, trabalho em equipe e gestão de tempo.
-
-**💻 Microtec Papelaria e Informática** - *Estagiário* | 2020 - 2021  
-Suporte técnico (hardware/software), gestão de inventário e atendimento ao cliente.
-
 ---
 
 ## 📫 Entre em Contato
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rafaeldiasgarcia.github.io-0D6EFD?style=for-the-badge)](https://rafaeldiasgarcia.github.io)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rafaeldiasgarcia.github.io-0D6EFD?style=for-the-badge)](https://rafaeldiasgarcia.me)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael_Dias_Garcia-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaeldiasgarcia/)
   
-  [![Email](https://img.shields.io/badge/Email-Enviar_Mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+  [![Email](https://img.shields.io/badge/Email-Enviar_Mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafdgar@gmail.com)
   
 </div>
 
