@@ -49,15 +49,6 @@ const rafael = {
 
 ---
 
-## ⚡ No Momento
-
-**🚀 CWI Software (Crescer)** - *Estagiário Level 2*  
-Capacitação intensiva em Java e Angular, práticas de DevOps, Segurança e Metodologias Ágeis.
-
-**📚 Estudando:** Clean Architecture, Design Patterns e Microsserviços  
-**🎯 Focado em:** Desenvolvimento Backend, APIs RESTful e Containerização
-
----
 
 <div align="center">
   
@@ -68,17 +59,10 @@ Capacitação intensiva em Java e Angular, práticas de DevOps, Segurança e Met
 
 <br/>
 
-<div align="left">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-5A5A5A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafaeldiasgarcia.me)
-  
-  
-  
-</div>
-
-<div align="right">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=rafaeldiasgarcia&color=0D6EFD&style=flat-square)
-  
-</div>
+<p align="left">
+  <a href="https://rafaeldiasgarcia.me">
+    <img src="https://img.shields.io/badge/Portfolio-5A5A5A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=rafaeldiasgarcia&color=0D6EFD&style=flat-square" alt="Profile Views"/>
+</p>
 
