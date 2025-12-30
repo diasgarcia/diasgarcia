@@ -1,5 +1,3 @@
-# 👋 Olá! Eu sou Rafael Dias Garcia
-
 ## 🚀 Sobre Mim
 
 ```javascript
@@ -19,27 +17,9 @@ const rafael = {
 
 ## 🛠️ Tech Stack
 
-### 💻 Linguagens e Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-### 🗄️ Bancos de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧰 Ferramentas e DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,php,py,mysql,postgres,git,docker,linux,html,css,bootstrap" alt="Tech Stack" />
+</div>
 
 
 ---
@@ -91,8 +71,8 @@ Capacitação intensiva em Java e Angular, práticas de DevOps, Segurança e Met
 <div align="left">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-5A5A5A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafaeldiasgarcia.me)
-  [![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeldiasgarcia/)
-  [![Email](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafdgar@gmail.com)
+  
+  
   
 </div>
 
