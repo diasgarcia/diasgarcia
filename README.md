@@ -93,11 +93,9 @@ Capacitação intensiva em Java e Angular, práticas de DevOps, Segurança e Met
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rafaeldiasgarcia.github.io-0D6EFD?style=for-the-badge)](https://rafaeldiasgarcia.me)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael_Dias_Garcia-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaeldiasgarcia/)
-  
-  [![Email](https://img.shields.io/badge/Email-Enviar_Mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafdgar@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/-5A5A5A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafaeldiasgarcia.me)
+  [![LinkedIn](https://img.shields.io/badge/-5A5A5A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeldiasgarcia/)
+  [![Email](https://img.shields.io/badge/-5A5A5A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafdgar@gmail.com)
   
 </div>
 
@@ -108,17 +106,11 @@ Capacitação intensiva em Java e Angular, práticas de DevOps, Segurança e Met
   ### 💡 "Arquitetura de software é música congelada."
   *— Adaptado de Goethe*
   
-  <br/>
+</div>
+
+<div align="right">
   
-  ### 👁️ Visualizações do Perfil
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=rafaeldiasgarcia&color=0D6EFD&style=for-the-badge&label=VISITANTES)
-  
-  ![GitHub Followers](https://img.shields.io/github/followers/rafaeldiasgarcia?style=for-the-badge&color=0D6EFD&labelColor=0D1117&logo=github)
-  
-  <br/>
-  
-  ⭐️ From [rafaeldiasgarcia](https://github.com/rafaeldiasgarcia)
+  ![Profile Views](https://komarev.com/ghpvc/?username=rafaeldiasgarcia&color=0D6EFD&style=flat-square)
   
 </div>
 
