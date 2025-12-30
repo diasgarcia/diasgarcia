@@ -1,6 +1,4 @@
 
-# 👋 Olá! Eu sou Rafael Dias Garcia
-
 <div align="center">
 
   
