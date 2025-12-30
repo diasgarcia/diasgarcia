@@ -1,12 +1,4 @@
-
-<div align="center">
-
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0D6EFD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafaeldiasgarcia.me)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeldiasgarcia/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaeldiasgarcia)
-  
-</div>
+# 👋 Olá! Eu sou Rafael Dias Garcia
 
 ## 🚀 Sobre Mim
 
@@ -87,22 +79,20 @@ Capacitação intensiva em Java e Angular, práticas de DevOps, Segurança e Met
 
 ---
 
-## 📫 Entre em Contato
-
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/-5A5A5A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafaeldiasgarcia.me)
-  [![LinkedIn](https://img.shields.io/badge/-5A5A5A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeldiasgarcia/)
-  [![Email](https://img.shields.io/badge/-5A5A5A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafdgar@gmail.com)
-  
-</div>
-
----
-
 <div align="center">
   
   ### 💡 "Arquitetura de software é música congelada."
   *— Adaptado de Goethe*
+  
+</div>
+
+<br/>
+
+<div align="left">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-5A5A5A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafaeldiasgarcia.me)
+  [![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeldiasgarcia/)
+  [![Email](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafdgar@gmail.com)
   
 </div>
 
