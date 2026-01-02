@@ -1,14 +1,16 @@
 
 
-```javascript
-const rafael = {
-    education: "Engenharia de Software @ UNIFIO (3º termo)",
-    currentRole: "Estagiário Level 2 @ CWI Crescer",
-    englishLevel: "C1 (Advanced)",
-    background: "Músico Clássico | Conservatório de Tatuí",
-    interests: ["Clean Code", "Design Patterns", "DevOps", "GenAI"],
-    funFact: "Transformo música em código e código em música 🎵"
-};
+```java
+Developer rafael = Developer.builder()
+    .education("Software Engineering @ UNIFIO (3rd semester)")
+    .currentRole("Level 2 Intern @ CWI Crescer")
+    .location("Ourinhos, São Paulo, Brazil (GMT-3)")
+    .englishLevel("C1 (Advanced)")
+    .hardSkills(List.of("Java", "Spring Boot", "PHP", "Git", "Docker"))
+    .interests(List.of("Clean Code", "Design Patterns", "DevOps", "GenAI"))
+    .background("Classical Musician | Conservatório de Tatuí")
+    .funFact("I turn music into code and code into music")
+    .build();
 ```
 
 
