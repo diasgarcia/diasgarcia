@@ -20,3 +20,10 @@ Developer rafael = Developer.builder()
   <img align="right" src="https://komarev.com/ghpvc/?username=rafaeldiasgarcia&color=0D6EFD&style=flat-square" alt="Profile Views"/>
 </p>
 
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaeldiasgarcia/rafaeldiasgarcia/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaeldiasgarcia/rafaeldiasgarcia/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rafaeldiasgarcia/rafaeldiasgarcia/output/pacman-contribution-graph.svg">
+</picture>
