@@ -2,7 +2,7 @@
 
 ```java
 Developer rafael = Developer.builder()
-    .education("Software Engineering @ UNIFIO (3rd semester)")
+    .education("Software Engineering @ UNIFIO (4th semester)")
     .currentRole("Level 2 Intern @ CWI Crescer")
     .location("Ourinhos, São Paulo, Brazil (GMT-3)")
     .englishLevel("C1 (Advanced)")
