@@ -17,6 +17,6 @@ Developer rafael = Developer.builder()
   <a href="https://rafaeldiasgarcia.me">
     <img src="https://img.shields.io/badge/Portfolio-5A5A5A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <img align="right" src="https://komarev.com/ghpvc/?username=rafaeldiasgarcia&color=0D6EFD&style=flat-square" alt="Profile Views"/>
+  <!-- <img align="right" src="https://komarev.com/ghpvc/?username=rafaeldiasgarcia&color=0D6EFD&style=flat-square" alt="Profile Views"/> -->
 </p>
 
