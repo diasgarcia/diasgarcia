@@ -7,9 +7,9 @@ Developer rafael = Developer.builder()
     .location("Ourinhos, São Paulo, Brazil (GMT-3)")
     .englishLevel("C1 (Advanced)")
     .hardSkills(List.of("Java", "Spring Boot", "Playwright", "Git", "Docker"))
-    .interests(List.of("Clean Code", "Design Patterns", "DevOps", "Quality Assurance"))
+    .interests(List.of("Systems Programming", "Algorithms", "Assembly", "Kubernetes", "Node-RED"))
     .background("Classical Musician | Conservatório de Tatuí")
-    .funFact("I turn music into code and code into music")
+    .funFact("Villa-Lobos is the best.")
     .build();
 ```
 
