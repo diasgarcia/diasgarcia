@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diasgarcia/diasgarcia/main/github-metrics.svg" alt="Metrics">
+</p>
 
+---
 
 ```java
 Developer rafael = Developer.builder()
@@ -20,3 +24,11 @@ Developer rafael = Developer.builder()
   <!-- <img align="right" src="https://komarev.com/ghpvc/?username=rafaeldiasgarcia&color=0D6EFD&style=flat-square" alt="Profile Views"/> -->
 </p>
 
+---
+
+```c
+long x = 0x357620655410;
+
+while(x)
+  putchar(0x726F6C6564574820 >> (((x >>= 4) & 0377) << 3));
+```
