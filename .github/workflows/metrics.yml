@@ -23,11 +23,13 @@ jobs:
           template: classic
           base: header, activity,  repositories, metadata
           config_timezone: America/Sao_Paulo
-          plugin_activity: yes
+          # plugin_activity desativado: lowlighter/metrics v3.34 quebra com
+          # "Unexpected error" (TypeError no PushEvent sem commits no payload,
+          # bug upstream ainda presente no master). Stats de activity do base continuam.
+          plugin_activity: no
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: issue, pr
-          plugin_activity_type: issue
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_habits: false
