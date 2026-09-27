@@ -3,7 +3,7 @@
 ```java
 Developer rafael = Developer.builder()
     .education("Software Engineering @ UNIFIO (4th semester)")
-    .currentRole("QA Intern @ CWI Crescer")
+    .currentRole("Fullstack | QA @ CWI Crescer")
     .location("Ourinhos, São Paulo, Brazil (GMT-3)")
     .englishLevel("C1 (Advanced)")
     .hardSkills(List.of("Java", "Spring Boot", "Playwright", "Git", "Docker"))
