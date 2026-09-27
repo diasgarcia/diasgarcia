@@ -16,19 +16,3 @@ Developer rafael = Developer.builder()
     .funFact("Villa-Lobos is the best.")
     .build();
 ```
-
-<p align="left">
-  <a href="https://rafaeldiasgarcia.me">
-    <img src="https://img.shields.io/badge/Portfolio-5A5A5A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <!-- <img align="right" src="https://komarev.com/ghpvc/?username=rafaeldiasgarcia&color=0D6EFD&style=flat-square" alt="Profile Views"/> -->
-</p>
-
----
-
-```c
-long x = 0x357620655410;
-
-while(x)
-  putchar(0x726F6C6564574820 >> (((x >>= 4) & 0377) << 3));
-```
