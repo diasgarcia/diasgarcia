@@ -49,3 +49,8 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
+          # Esconde a seção de followers/following visualmente. O plugin
+          # precisa continuar ligado: desligar zera os dados de repos
+          # (licenses, releases, stargazers, languages, followup)
+          extras_css: |
+            section:has(section.people) { display: none !important; }
