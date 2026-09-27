@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/diasgarcia/diasgarcia/main/github-metrics.svg" alt="Metrics">
+  <img src="https://raw.githubusercontent.com/diasgarcia/diasgarcia/mult-info/github-metrics.svg" alt="Metrics">
 </p>
 
 ---
